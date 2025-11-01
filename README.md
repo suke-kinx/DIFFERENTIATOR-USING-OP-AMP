@@ -51,10 +51,8 @@ DIFFERENTIATOR
 
 ## TABULATION:
 ![WhatsApp Image 2025-11-01 at 20 13 48_5b364f39](https://github.com/user-attachments/assets/f90871b3-e9bb-4187-b06c-4fff79a1837f)
-
 ## GRAPH:
 ![WhatsApp Image 2025-11-01 at 20 15 16_64ffe651](https://github.com/user-attachments/assets/a9b96c92-d382-454c-934b-f0886a134568)
-
 ## RESULT:
 Thus a differentiator using op-amp are designed and their performance was successfully tested using op-amp.
 
